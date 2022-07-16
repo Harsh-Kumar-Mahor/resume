@@ -1,0 +1,100 @@
+{
+    "basics": {
+        "name": "Harsh Kumar Mahor",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1043@iiitkota.ac.in",
+        "phone": "+918767978915",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Panvel",
+            "postalCode": "410206",
+            "city": "Mumbai",
+            "countryCode": "India",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "Harsh-Kumar-Mahor",
+                "url": "https://github.com/Harsh-Kumar-Mahor"
+            },
+            {
+                "network": "linkedin",
+                "username": "harsh-kumar-mahor",
+                "url": "https://www.linkedin.com/in/harsh-kumar-mahor/"
+            },
+            {
+                "network": "Instagram",
+                "username": "harsh_jr_25",
+                "url": "https://instagram.com/harsh_jr_25"
+            }
+        ]
+    },
+    "work": [
+        
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Development",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+				"C"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football",
+                "Badminton"
+            ]
+        }
+    ]
+}
